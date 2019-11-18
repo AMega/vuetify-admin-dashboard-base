@@ -1,5 +1,7 @@
 # vuetify-admin-dashboard-base
 
+![Screenshot](/assets/app-screenshot.jpg?raw=true "vuetify-admin-dashboard-base Screenshot")
+
 ## Project setup
 ```
 npm install
