@@ -1,4 +1,4 @@
-# vue-app
+# vuetify-admin-dashboard-base
 
 ## Project setup
 ```
